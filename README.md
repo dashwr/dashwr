@@ -1,5 +1,16 @@
-## Hi there 👋
+## Tools I use
+- Opencode
+- Zed
+- Lapce
+- Sublime Text
 
+## Current OS
+- Windows 11 LTSC (tiny11 build 26H1)
+- CachyOS / Cosmic & Plasma / custom RC kernel
+
+## Machines
+- R5 5600G OC // 16GB@3400mts // vbios modded RTX 3060 12GB Ventus 3x
+- i3-10110U // 8GB@2666mts // Vaio FE15
 <!--
 **dashwr/dashwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
