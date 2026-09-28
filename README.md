@@ -1,7 +1,5 @@
 ## Tools I use
-- Opencode
-- Zed
-- Lapce
+- Minimax Code
 - Sublime Text
 
 ## Current OS
