@@ -8,7 +8,7 @@
 
 ## Machines
 - R5 5600G OC // 16GB@3400mts // vbios modded RTX 3060 12GB Ventus 3x
-- i3-10110U // 8GB@2666mts // Vaio FE15
+- i3-10110U // 16GB@2666mts // Vaio FE15
 <!--
 **dashwr/dashwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
