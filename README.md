@@ -1,9 +1,9 @@
 ## Tools I use
-- Minimax Code
+- Codex w/ Claude
 - Sublime Text
 
 ## Current OS
-- Windows 11 LTSC (tiny11 build 26H1)
+- CachyOS / Plasma / xanmod kernel
 - CachyOS / Cosmic & Plasma / custom RC kernel
 
 ## Machines
